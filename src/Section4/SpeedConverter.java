@@ -1,3 +1,5 @@
+package Section4;
+
 //exercise from Section 4 Speed Converter
 public class SpeedConverter {
 
